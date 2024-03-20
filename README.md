@@ -1,6 +1,11 @@
-### Hi there 👋
+
+<a href="https://github.com/AraavNayak/github-readme-stats">
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=AraavNayak&show_icons=true&theme=radical" />
+</a>
+
 
 <!--
+### Hi there 👋
 
 <a href="https://github.com/AraavNayak/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=AraavNayak" />
