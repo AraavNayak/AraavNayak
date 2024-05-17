@@ -1,6 +1,6 @@
 
 <a href="https://github.com/AraavNayak/github-readme-stats">
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=AraavNayak&show_icons=true&theme=radical" />
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=AraavNayak&show_icons=true&theme=holi" />
 </a>
 
 
@@ -9,6 +9,7 @@
 
 <!--
 ### Hi there 👋
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AraavNayak&layout=compact&theme=holi)
 
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AraavNayak&layout=compact&langs_count=8&card_width=320&theme=radical" />
