@@ -1,10 +1,12 @@
+Hey there 👋
 
-<a href="https://github.com/AraavNayak/github-readme-stats">
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=AraavNayak&show_icons=true&theme=holi" />
-</a>
+I’m Araav. I’m a freshman at UC Berkeley majoring in Computer Science and Data Science. I am a 4x hackathon finalist and ex-MIT CSAIL NLP researcher passionate about Agentic AI and LLMs.
+
+Shoot me an email at nayakaraav@gmail.com.
+
+Check out my featured projects below:
 
 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/AraavNayak)
 
 
 <!--
