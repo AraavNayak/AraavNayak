@@ -3,6 +3,7 @@ Hey there 👋
 I’m Araav. I’m a freshman at UC Berkeley majoring in Computer Science and Data Science. I am a 4x hackathon winner and ex-MIT CSAIL NLP researcher passionate about Agentic AI and LLMs.
 
 Always open to chat about collaborations and opportunities.
+<br>
 Email: nayakaraav@gmail.com
 <br>
 Insta: @AraavNayak
